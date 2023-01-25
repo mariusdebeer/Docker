@@ -1,5 +1,5 @@
-<h1>WordPress with MySQL & PHPMyAdmin<h1>
+<h3>WordPress with MySQL & PHPMyAdmin<h3>
 
-This is to run WordPress with MySQL.  For added benefit, I have included PHPMyAdmin if you need to import an existing database.
+<p>This is to run WordPress with MySQL.  For added benefit, I have included PHPMyAdmin if you need to import an existing database.
 
-!IMPORTANT! You need to edit the .env file and create secure passwords for your database & database user before running this in production.
+  <strong>!IMPORTANT!</strong> You need to edit the .env file and create secure passwords for your database & database user before running this in production.</p>
