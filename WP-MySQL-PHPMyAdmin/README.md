@@ -1,4 +1,4 @@
-<h3>WordPress with MySQL & PHPMyAdmin<h3>
+<h3>WordPress with MySQL & PHPMyAdmin<h3><br>
 
 <p>This is to run WordPress with MySQL.  For added benefit, I have included PHPMyAdmin if you need to import an existing database.
 
